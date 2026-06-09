@@ -22,6 +22,9 @@ Internet Archive until a redirect is found or the website was shutdown:
 | http://romustrike.net/              | 8 May 2005     | 2 Apr 2006    |
 | http://romustrike.fr/               | 18 Jun 2007    | 15 Aug 2023   |
 
+Autres:
+- http://romustrike.servhome.org/ : Serveur d'hébergement du Forum/Wiki en 2008
+
 ## License
 
 Docgen under the `docgen` is licensed under the MIT License, `history` is under
