@@ -306,6 +306,17 @@ versions:
     filename: "RsFullSetup.exe"
     type: full_install 
 
-- version: "170"
+- version: "160" # Also called 1.60
+  date: "??-??-??"
+  version_certainty: unconfirmed
+  # Speculated, Legendsworld
+  size_kb: 41000
+  sources:
+    - label: "Legends World Index"
+      # Possible Typo of the Author of the page?
+      url: "https://web.archive.org/web/20210209130241/https://www.legendsworld.net/shooter/game/8467"
+      type: reference
+
+- version: "170" # Also called 1.70
   version_certainty: confirmed
   date: "??-??-??"
