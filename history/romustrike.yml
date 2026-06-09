@@ -235,6 +235,9 @@ versions:
 
 - version: "138c"
   date: "??-??-??"
+  version_certainty: confirmed
+  archive_status: preserved
+# TBD Internet Archive
 
 - version: "139"
   version_certainty: inferred
