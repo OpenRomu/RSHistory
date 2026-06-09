@@ -17,6 +17,7 @@ Internet Archive until a redirect is found or the website was shutdown:
 | ---                                 | ---            | ---           |
 | http://romusoft.free.fr/            | 25 Jan 2002    | 12 Feb 2004   |
 | http://romu.soft.free.fr/           | 7 Feb 2002     | 27 Apr 2006   |
+| http://romustrike.serveftp.net/     | 15 Jul 2003    | 7 Feb 2005    |
 | http://romustrike.funnelle.com/     | 21 Mar 2005    | 28 Aug 2008   |
 | http://romustrike.net/              | 8 May 2005     | 2 Apr 2006    |
 | http://romustrike.fr/               | 18 Jun 2007    | 15 Aug 2023   |
