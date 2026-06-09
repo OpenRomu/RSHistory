@@ -209,9 +209,15 @@ versions:
     - label: "Internet Archive"
       url: "https://web.archive.org/web/20051217013033/http://romustrike.funnelle.com/"
 
-- version: "127"
-  version_certainty: inferred
-  date: "????-??-??"
+- version: "137"
+  date: "2006-04-??"
+  date_certainty: approximate
+  version_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Archives RomuStrike"
+      url: "https://web.archive.org/web/20260307215149/https://www.romustrike.fr/archives/2005.html"
+      type: reference
 
 - version: "138"
   version_certainty: inferred
