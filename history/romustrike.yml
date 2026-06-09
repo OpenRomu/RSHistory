@@ -1,0 +1,261 @@
+project:
+  name: "RomuStrike"
+  description: "Free French-language multiplayer FPS"
+  creator: ["Romu", "Zebat"]  # Overridable per version
+  predecessors: ["VBStrike"]
+
+versions:
+- version: "113"
+  date: "2003-06-19"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20030715171610/http://romustrike.serveftp.net/"
+      type: reference
+
+- version: "119"
+  date: "2003-09-28"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20031003222414/http://romustrike.serveftp.net/"
+      type: reference
+
+- version: "120"
+  date: "2003-10-10"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20031019162158/http://romustrike.serveftp.net/"
+      type: reference
+
+- version: "121"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "122"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "123"
+  date: "2003-11-23"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20040211195911/http://romustrike.serveftp.net/"
+      type: reference
+
+- version: "124"
+  date: "2004-03-10"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20040411144546/http://romustrike.serveftp.net/"
+      type: reference
+
+- version: "125"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "126"
+  date: "2004-05-20"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20040602165236/http://romustrike.serveftp.net/"
+      type: reference
+
+- version: "127"
+  date: "2004-07-16"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20040727101058/http://romustrike.serveftp.net/"
+      type: reference
+
+- version: "128"
+  date: "2004-09-03"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20040906085125/http://romustrike.serveftp.net/"
+      type: reference
+
+- version: "130"
+  date: "2004-09-18"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20040925121343/http://romustrike.serveftp.net/"
+      type: reference
+
+- version: "131"
+  date: "200?-??-??"
+  version_certainty: confirmed
+  date_certainty: approximate
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050321032529/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050322034659/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050325074804/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050330013511/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050403194216/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050325074804/http://romustrike.funnelle.com/"
+      type: reference
+
+- version: "132"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "133"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "134"
+  date: "2005-??-??"
+  version_certainty: confirmed
+  date_certainty: approximate
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050513230814/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050521235633/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050524000250/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050528102124/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050609031924/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050513230814/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050626011044/http://romustrike.funnelle.com/"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050711014014/http://romustrike.funnelle.com/"
+      type: reference
+# Skipped until the last version, @TODO: All of the links
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050828221557/http://romustrike.funnelle.com/"
+      type: reference
+
+- version: "135"
+  date: "2005-10-??"
+  version_certainty: confirmed
+  date_certainty: approximate
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20050923155049/http://romustrike.funnelle.com/"
+# Skipped until the last version, @TODO: All of the links
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20051029191615/http://romustrike.funnelle.com/"
+
+- version: "136"
+  date: "2005-11-0?"
+  version_certainty: confirmed
+  date_certainty: approximate
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20051102000723/http://romustrike.funnelle.com/"
+# Skipped until the last version, @TODO: All of the links
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20051217013033/http://romustrike.funnelle.com/"
+
+- version: "138"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "138c"
+  date: "??-??-??"
+
+- version: "139"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "140"
+  version_certainty: confirmed
+  date: "??-??-??"  
+  archive_status: preserved
+  archive_download:
+    url: "https://archive.org/details/romustrike_140"
+    filename: "RsFullSetup.exe"
+    type: full_install   
+
+- version: "150"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "151"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "152"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "153"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "154"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "155"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "156"
+  version_certainty: inferred
+  date: "??-??-??"
+
+- version: "157"
+  version_certainty: confirmed
+  date: "??-??-??"
+  archive_status: preserved
+  archive_download:
+    url: "https://archive.org/details/romustrike_157"
+    filename: "RsFullSetup.exe"
+    type: full_install 
+
+- version: "170"
+  version_certainty: confirmed
+  date: "??-??-??"
