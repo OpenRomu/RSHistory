@@ -240,8 +240,17 @@ versions:
 # TBD Internet Archive
 
 - version: "139"
-  version_certainty: inferred
-  date: "??-??-??"
+  date: "2007-11-??"
+  date_certainty: approximate
+  version_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Archive RomuStrike"
+      url: "https://web.archive.org/web/20260307203956/https://www.romustrike.fr/archives/2008.html"
+      type: reference
+    - label: "Servhome RomuStrike"
+      url: "https://web.archive.org/web/20080424061451/http://romustrike.servhome.org/wiki/index.php/Accueil"
+      type: reference
 
 - version: "140"
   version_certainty: confirmed
