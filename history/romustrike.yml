@@ -275,31 +275,31 @@ versions:
 
 - version: "151"
   version_certainty: inferred
-  date: "??-??-??"
+  date: "2010-??-??"
 
 - version: "152"
   version_certainty: inferred
-  date: "??-??-??"
+  date: "2010-??-??"
 
 - version: "153"
   version_certainty: inferred
-  date: "??-??-??"
+  date: "2010-??-??"
 
 - version: "154"
   version_certainty: inferred
-  date: "??-??-??"
+  date: "2010-??-??"
 
 - version: "155"
   version_certainty: inferred
-  date: "??-??-??"
+  date: "2010-??-??"
 
 - version: "156"
   version_certainty: inferred
-  date: "??-??-??"
+  date: "2010-??-??"
 
 - version: "157"
   version_certainty: confirmed
-  date: "??-??-??"
+  date: "2010-??-??"
   archive_status: preserved
   archive_download:
     url: "https://archive.org/details/romustrike_157"
