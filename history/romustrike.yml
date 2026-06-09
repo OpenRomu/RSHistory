@@ -200,6 +200,9 @@ versions:
   date_certainty: approximate
   archive_status: lost
   sources:
+    - label: "Archives RomuStrike"
+      url: "https://web.archive.org/web/20260307215149/https://www.romustrike.fr/archives/2005.html"
+      type: reference
     - label: "Internet Archive"
       url: "https://web.archive.org/web/20051102000723/http://romustrike.funnelle.com/"
 # Skipped until the last version, @TODO: All of the links
