@@ -112,11 +112,14 @@ versions:
       type: reference
 
 - version: "131"
-  date: "200?-??-??"
+  date: "2005-03-??"
   version_certainty: confirmed
   date_certainty: approximate
   archive_status: lost
   sources:
+    - label: "Archives RomuStrike"
+      url: "https://web.archive.org/web/20260307215149/https://www.romustrike.fr/archives/2005.html"
+      type: reference
     - label: "Internet Archive"
       url: "https://web.archive.org/web/20050321032529/http://romustrike.funnelle.com/"
       type: reference
