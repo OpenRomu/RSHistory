@@ -254,12 +254,16 @@ versions:
 
 - version: "140"
   version_certainty: confirmed
-  date: "??-??-??"  
+  date: "2008-05-09"  
   archive_status: preserved
   archive_download:
     url: "https://archive.org/details/romustrike_140"
     filename: "RsFullSetup.exe"
-    type: full_install   
+    type: full_install
+  sources:
+    - label: "Archive RomuStrike"
+      url: "https://web.archive.org/web/20260307203956/https://www.romustrike.fr/archives/2008.html"
+      type: reference
 
 - version: "150"
   version_certainty: inferred
