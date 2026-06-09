@@ -220,6 +220,16 @@ versions:
       type: reference
 
 - version: "138"
+  date: "2006-06-??"
+  date_certainty: approximate
+  version_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Archives RomuStrike"
+      url: "https://web.archive.org/web/20260307215149/https://www.romustrike.fr/archives/2005.html"
+      type: reference
+
+- version: "138b"
   version_certainty: inferred
   date: "??-??-??"
 
