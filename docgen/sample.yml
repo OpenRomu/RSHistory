@@ -1,0 +1,76 @@
+project:
+  name: "FPSTEST"
+  description: "BestFPS ever made"
+  creator: ["Peep1", "Peep2"]  # Overridable per version
+  predecessors: ["OldThing"]  # Metadata
+
+versions:
+- version: "12c"
+  date: "2004-??-??"
+  version_certainty: confirmed        # confirmed | inferred | unconfirmed
+  date_certainty: speculated          # confirmed | approximate | inferred | unconfirmed
+  archive_status: preserved           # preserved | partial | lost
+  archive_notes: "Biduletruc"         # If it's partial, why?
+  archive_download:
+    url: "https://web.archive.org/web/..."  # Where you can download it ?
+    filename: "Setup.exe"
+    type: full_install                # full_install | patch
+  original_filename: "SetupGame.exe"
+  language: "C++"                     # VB | C++
+  creator: ["TestyMcTestface"]                  # Overriden name
+  size_kb: ~                      # ~ if not known
+  changelog_origin: reconstructed     # reconstructed | official
+  changelog: |
+    - Fixed crash
+  notes: "Last version before removing all players"
+  dates_seen:
+    - date: "2004-03-15"
+      context: "Internet Archive snapshot of truc.fr"
+    - date: "2004-06-20"
+      context: "GamesGamesGameslisting"
+  hashes:  # No hash means unknown
+    md5: "121212e..."
+    sha256: "121324e..."
+  obsolete_download_link: "http://bestgame.../Setup.exe"
+  sources:
+    - label: "Internet Archive installer"
+      url: "https://web.archive.org/..."
+      type: download                   # download | source_code | reference | media
+    - label: "SheatNoisette archive"
+      url: "https://archiveofstuff.sheatnoisette.fr/..."
+      type: download
+    - label: "Softonic listing"
+      url: "https://en.softonic.com/..."
+      type: reference
+- version: "13"
+  date: "2044-??-??"
+  version_certainty: unconfirmed
+  date_certainty: inferred
+  archive_status: preserved
+  archive_notes: "Biduletruc"
+  archive_download:
+    url: "https://web.archive.org/web/..."
+    filename: "Setup.exe"
+    type: patch
+  original_filename: "SetupGame.exe"
+  language: "C++"
+  creator: ["TestyMcTestface"]
+  size_kb: ~
+  changelog_origin: reconstructed
+  changelog: |
+    - Fixed crash
+  notes: "Last version before removing all players"
+  dates_seen:
+    - date: "2004-03-15"
+      context: "Internet Archive snapshot of truc.fr"
+    - date: "2004-06-20"
+      context: "GamesGamesGameslisting"
+  hashes:
+    md5: "121212e..."
+    sha256: "121324e..."
+  obsolete_download_link: "http://bestgame.../Setup.exe"
+  sources:
+    - label: "Internet Archive installer"
+      url: "https://web.archive.org/..."
+      type: download
+
