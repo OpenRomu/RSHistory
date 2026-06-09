@@ -65,7 +65,7 @@ versions:
 
 - version: "125"
   version_certainty: inferred
-  date: "??-??-??"
+  date: "2004-0?-??"
 
 - version: "126"
   date: "2004-05-20"
