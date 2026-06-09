@@ -265,9 +265,13 @@ versions:
       url: "https://web.archive.org/web/20260307203956/https://www.romustrike.fr/archives/2008.html"
       type: reference
 
-- version: "150"
+- version: "150" # Also called 1.5
   version_certainty: inferred
-  date: "??-??-??"
+  date: "2010-??-??"
+  sources:
+    - label: "Archives RomuStrike"
+      url: "https://web.archive.org/web/20260307205407/https://www.romustrike.fr/archives/2010.html"
+      type: reference
 
 - version: "151"
   version_certainty: inferred
