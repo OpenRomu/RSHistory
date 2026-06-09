@@ -97,6 +97,10 @@ versions:
       url: "https://web.archive.org/web/20040906085125/http://romustrike.serveftp.net/"
       type: reference
 
+- version: "129"
+  version_certainty: inferred
+  date: "2004-09-??"
+
 - version: "130"
   date: "2004-09-18"
   version_certainty: confirmed
@@ -198,6 +202,10 @@ versions:
 # Skipped until the last version, @TODO: All of the links
     - label: "Internet Archive"
       url: "https://web.archive.org/web/20051217013033/http://romustrike.funnelle.com/"
+
+- version: "127"
+  version_certainty: inferred
+  date: "????-??-??"
 
 - version: "138"
   version_certainty: inferred
