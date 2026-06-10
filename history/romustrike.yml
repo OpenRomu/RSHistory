@@ -5,6 +5,76 @@ project:
   predecessors: ["VBStrike"]
 
 versions:
+- version: "100" # Not sure if it's the first version, deduced from 106
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "101"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "102"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "103"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "104"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "105"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "106"
+  date: "2003-05-21"
+  version_certainty: confirmed
+  date_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20030601213603/http://romusoft.free.fr/"
+      type: reference
+
+- version: "107"
+  date: "2003-05-27" # Date speculation
+  version_certainty: confirmed
+  date_certainty: inferred
+  archive_status: lost
+  sources:
+    - label: "Internet Archive" # Forum Topic: "RSTRIKEV107 sur romustrike.serveftp.net	27/05/2003"
+      url: "https://web.archive.org/web/20030601213603/http://romusoft.free.fr/"
+      type: reference
+
+- version: "108"
+  date: "2003-05-28" # Date speculation
+  version_certainty: confirmed
+  date_certainty: inferred
+  archive_status: lost
+  sources:
+    - label: "Internet Archive" # Forum Topic: "NEW !! ! ! ! RS Version 108"
+      url: "https://web.archive.org/web/20030611121140/http://romusoft.free.fr/"
+      type: reference
+
+- version: "109"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "110"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "111"
+  version_certainty: inferred
+  date: "2003-??-??"
+
+- version: "112"
+  version_certainty: inferred
+  date: "2003-??-??"
+
 - version: "113"
   date: "2003-06-19"
   version_certainty: confirmed
