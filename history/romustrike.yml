@@ -430,8 +430,21 @@ versions:
       
 - version: "170" # Also called 1.70
   version_certainty: confirmed
+  archive_status: lost
   date: "??-??-??"
   sources:
     - label: "Youtube"
       url: "https://www.youtube.com/watch?v=32Ku3pNzvTo"
+      type: media
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20211223041445/http://romustrike.fr/"
+      type: reference
+
+- version: "180" # Also called 1.80
+  version_certainty: confirmed
+  archive_status: lost
+  date: "??-??-??"
+  sources:
+    - label: "Youtube"
+      url: "https://www.youtube.com/watch?v=ta0I5qKNUWY"
       type: media
