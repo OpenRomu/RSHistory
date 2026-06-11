@@ -290,6 +290,9 @@ versions:
     - label: "Archives RomuStrike"
       url: "https://web.archive.org/web/20260307215149/https://www.romustrike.fr/archives/2005.html"
       type: reference
+    - label: "Internet Archive" # In the server list: VIPER 11 2006-11-07 20:42:56 137 sniper_2
+      url: "https://web.archive.org/web/20060707203203/http://romustrike.funnelle.com/index.php?lang=FR&selmenu=1"
+      type: reference
 
 - version: "138"
   date: "2006-06-??"
