@@ -368,8 +368,13 @@ versions:
       type: reference
 
 - version: "151"
-  version_certainty: inferred
   date: "2010-??-??"
+  version_certainty: confirmed
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20100420012148/http://romustrike.fr/"
+      type: reference
 
 - version: "152"
   version_certainty: inferred
