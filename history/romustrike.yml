@@ -377,8 +377,10 @@ versions:
       type: reference
 
 - version: "152"
-  version_certainty: inferred
-  date: "2010-??-??"
+  date: "2010-06-13" # Game executable says 13/06/2010 1:56PM
+  version_certainty: confirmed
+  archive_status: preserved
+  # Todo Internet Archive
 
 - version: "153"
   version_certainty: inferred
@@ -389,8 +391,10 @@ versions:
   date: "2010-??-??"
 
 - version: "155"
-  version_certainty: inferred
-  date: "2010-??-??"
+  date: "2010-10-29" # Game executable says 29/10/2010 5:15PM
+  version_certainty: confirmed
+  archive_status: preserved
+  # Todo Internet Archive
 
 - version: "156"
   version_certainty: inferred
