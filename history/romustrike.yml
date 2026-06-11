@@ -408,6 +408,10 @@ versions:
     url: "https://archive.org/details/romustrike_157"
     filename: "RsFullSetup.exe"
     type: full_install 
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20120820013857/http://romustrike.fr/"
+      type: reference
 
 - version: "160" # Also called 1.60
   date: "??-??-??"
