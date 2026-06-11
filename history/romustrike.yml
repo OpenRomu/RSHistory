@@ -329,6 +329,9 @@ versions:
     - label: "Servhome RomuStrike"
       url: "https://web.archive.org/web/20080424061451/http://romustrike.servhome.org/wiki/index.php/Accueil"
       type: reference
+    - label: "Funnelle RomuStrike"
+      url: "https://web.archive.org/web/20071116093534/http://romustrike.funnelle.com/index.php?lang=FR&selmenu=1"
+      type: reference
 
 - version: "140"
   version_certainty: confirmed
