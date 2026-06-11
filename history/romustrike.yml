@@ -346,6 +346,15 @@ versions:
       url: "https://web.archive.org/web/20260307203956/https://www.romustrike.fr/archives/2008.html"
       type: reference
 
+- version: "149" # Not sure if it's a 150 beta
+  version_certainty: confirmed
+  date: "????-??-??"  
+  archive_status: lost
+  sources:
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20090917024621/http://romustrike.fr/serveurs.php"
+      type: reference
+
 - version: "150" # Also called 1.5
   version_certainty: inferred
   date: "2010-??-??"
