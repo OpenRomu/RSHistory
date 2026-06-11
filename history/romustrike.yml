@@ -263,6 +263,8 @@ versions:
 # Skipped until the last version, @TODO: All of the links
     - label: "Internet Archive"
       url: "https://web.archive.org/web/20051029191615/http://romustrike.funnelle.com/"
+    - label: "Internet Archive" # Multiple players on the 135 in the server list
+      url: "https://web.archive.org/web/20051105044918/http://romustrike.funnelle.com/index.php?lang=FR&selmenu=1"
 
 - version: "136"
   date: "2005-11-0?"
