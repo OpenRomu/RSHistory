@@ -356,11 +356,15 @@ versions:
       type: reference
 
 - version: "150" # Also called 1.5
-  version_certainty: inferred
   date: "2010-??-??"
+  version_certainty: confirmed
+  archive_status: lost
   sources:
     - label: "Archives RomuStrike"
       url: "https://web.archive.org/web/20260307205407/https://www.romustrike.fr/archives/2010.html"
+      type: reference
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20100330115856/http://romustrike.fr/serveurs.php"
       type: reference
 
 - version: "151"
