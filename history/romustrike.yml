@@ -415,7 +415,8 @@ versions:
 
 - version: "160" # Also called 1.60
   date: "??-??-??"
-  version_certainty: unconfirmed
+  version_certainty: confirmed
+  archive_status: lost
   # Speculated, Legendsworld
   size_kb: 41000
   sources:
@@ -423,7 +424,10 @@ versions:
       # Possible Typo of the Author of the page?
       url: "https://web.archive.org/web/20210209130241/https://www.legendsworld.net/shooter/game/8467"
       type: reference
-
+    - label: "Internet Archive"
+      url: "https://web.archive.org/web/20130619145441/http://romustrike.fr/"
+      type: reference
+      
 - version: "170" # Also called 1.70
   version_certainty: confirmed
   date: "??-??-??"
